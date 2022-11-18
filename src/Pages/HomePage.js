@@ -18,7 +18,7 @@ function HomePage() {
           Programmer | Graphics Designer | Artist | Photographer
         </p>
         <div className="icons">
-          <Link to="https://www.facebook.com/jitheshkudupu1" className="icon-content" target='_blank' >
+          <Link to="https://www.facebook.com" className="icon-content" target='_blank' >
             <FontAwesomeIcon icon={faFacebook} className="icon fb"/>
           </Link>
           <Link  className="icon-content" target='_blank'>

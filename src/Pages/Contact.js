@@ -13,7 +13,7 @@ function Contact() {
       <div className="contactpage">
         <div className="map-sect">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3889.056630625804!2d74.89141931434344!3d12.904080119848821!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba359e65bfdc7df%3A0x572cc8ac079c18da!2sKudupu%20Shree%20Anantha%20Padmanabha%20Temple!5e0!3m2!1sen!2sin!4v1621601632726!5m2!1sen!2sin"
+            src="https://www.google.com/maps"
             width="600"
             height="450"
             frameBorder="0"
