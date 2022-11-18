@@ -1,0 +1,49 @@
+.HomePage {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 80%;
+}
+
+.hero-text {
+  color: #06d6a0;
+  text-align: center;
+  font-size: 3rem;
+  span {
+    color: #ffff;
+  }
+}
+
+.h-sub-text {
+  text-align: center;
+  padding: 12px;
+  line-height: 21px;
+}
+
+.icons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5rem 0;
+  .icon-content {
+    margin-right: 1rem;
+
+    .icon {
+      font-size: 1.5rem;
+      color: #ffff;
+    }
+    .yt:hover {
+      color: #06d6a0;
+    }
+    .git:hover {
+      color: #06d6a0;
+    }
+    .fb:hover {
+      color: #06d6a0;
+    }
+    .in:hover {
+      color: #06d6a0;
+    }
+  }
+}
