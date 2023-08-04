@@ -15,7 +15,7 @@ function About() {
         <SkillSection skill={"CSS"} progress={"70%"} width={"70%"} />
         <SkillSection skill={"Javascript"} progress={"65%"} width={"65%"} />
         <SkillSection skill={"React JS"} progress={"64%"} width={"64%"} />
-        <SkillSection skill={"Java"} progress={"66%"} width={"66%"} />
+        <SkillSection skill={"Java"} progress={"81%"} width={"66%"} />
         <SkillSection skill={"Django"} progress={"50%"} width={"50%"} />
         <SkillSection skill={"MySQL"} progress={"45%"} width={"45%"} />
         <SkillSection skill={" MongoDB"} progress={"45%"} width={"45%"} />
